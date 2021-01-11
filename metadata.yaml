@@ -1,0 +1,25 @@
+_repo: Of-Medicine-in-Eight-Books_64207
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Greive, James
+    gutenberg_agent_id: '52797'
+    url: http://www.gutenberg.org/2009/agents/52797
+creator:
+  author:
+    agent_name: Celsus, Aulus Cornelius
+    gutenberg_agent_id: '52796'
+    url: http://www.gutenberg.org/2009/agents/52796
+description: ''
+gutenberg_issued: '2021-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Of Medicine in Eight Books
+url: http://www.gutenberg.org/ebooks/64207
