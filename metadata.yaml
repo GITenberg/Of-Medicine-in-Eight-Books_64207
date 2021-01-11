@@ -1,16 +1,21 @@
 _repo: Of-Medicine-in-Eight-Books_64207
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Greive, James
     gutenberg_agent_id: '52797'
     url: http://www.gutenberg.org/2009/agents/52797
+covers:
+- cover_type: archival
+  image_path: 64207-h/images/cover.jpg
 creator:
   author:
     agent_name: Celsus, Aulus Cornelius
     gutenberg_agent_id: '52796'
     url: http://www.gutenberg.org/2009/agents/52796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64207#Of-Medicine-in-Eight-Books
 gutenberg_issued: '2021-01-03'
 gutenberg_type: Text
 identifiers:
